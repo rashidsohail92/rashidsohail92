@@ -24,12 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,figma,vscode,discord&perline=5)](https://skillicons.dev)
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [rashidsohail](https://github.com/rashidsohail92)
