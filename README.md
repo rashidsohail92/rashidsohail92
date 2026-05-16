@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Cyber security
+- 💜 Favorite language: Dart!
 - 💬 Ask me anything about Flutter 
 
 
